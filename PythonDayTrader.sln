@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonDayTrader", "PythonDayTrader\PythonDayTrader.pyproj", "{CC36D129-7600-4DFF-A8EB-273CE47A8653}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC36D129-7600-4DFF-A8EB-273CE47A8653}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC36D129-7600-4DFF-A8EB-273CE47A8653}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4AA1CE23-F2E0-427E-AD20-6037995871BE}
+	EndGlobalSection
+EndGlobal
